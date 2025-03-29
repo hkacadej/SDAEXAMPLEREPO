@@ -1,0 +1,46 @@
+{
+  "Headline": {
+    "EffectiveDate": "2025-03-23T07:00:00+01:00",
+    "EffectiveEpochDate": 1742709600,
+    "Severity": 5,
+    "Text": "Expect showers Sunday morning",
+    "Category": "rain",
+    "EndDate": "2025-03-23T13:00:00+01:00",
+    "EndEpochDate": 1742731200,
+    "MobileLink": "http://www.accuweather.com/en/al/tirana/6522/daily-weather-forecast/6522?lang=en-us",
+    "Link": "http://www.accuweather.com/en/al/tirana/6522/daily-weather-forecast/6522?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2025-03-22T07:00:00+01:00",
+      "EpochDate": 1742623200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 44,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 66,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/al/tirana/6522/daily-weather-forecast/6522?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/al/tirana/6522/daily-weather-forecast/6522?day=1&lang=en-us"
+    }
+  ]
+}
